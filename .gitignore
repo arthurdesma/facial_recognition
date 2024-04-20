@@ -152,8 +152,11 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-v1/wider_face/
+wider_face/
 Face_Detection/
+data/
+aug_data/
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore

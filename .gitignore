@@ -159,6 +159,7 @@ aug_data/
 logs/
 facetracker.h5/
 data_image/
+aug_data_wider/
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
